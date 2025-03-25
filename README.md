@@ -41,8 +41,6 @@ Efficiently assign drones to orders such that:
 
 ---
 
----
-
 ## 🌐 **How to Use**  
 
 1️⃣ Clone the repository.  
