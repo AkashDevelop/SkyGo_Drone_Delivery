@@ -11,7 +11,7 @@
 
 📽️ **Visual output.json Representation**  
 
-![Image](https://github.com/user-attachments/assets/0c3a5a8a-8138-41e4-a843-cdf48c7f0872)
+![Image](https://github.com/user-attachments/assets/7adc186c-eaf4-45c3-8e23-cfeba955f792)
 
 ---
 
