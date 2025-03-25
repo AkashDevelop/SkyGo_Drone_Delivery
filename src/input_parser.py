@@ -1,5 +1,5 @@
 import json
-from models import City, Drone, Order
+from .models import City, Drone, Order
 
 def load_input(file_path: str):
     """
