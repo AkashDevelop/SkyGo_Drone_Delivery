@@ -1,6 +1,6 @@
-from input_parser import load_input
-from optimizer import assign_orders
-from output_writer import write_output
+from .input_parser import load_input
+from .optimizer import assign_orders
+from .output_writer import write_output
 
 def main():
     # Load input data from input.json
